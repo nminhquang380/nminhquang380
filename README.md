@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nminhquang380@gmail.com**
 
-- ⚡ Facts about me **Talkative introverts, a depressed guy but trying to heal others :>**
+- ⚡ Facts about me: **a talkative introvert, a depressed guy but trying to heal others :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
