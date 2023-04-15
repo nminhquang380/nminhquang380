@@ -1,7 +1,7 @@
-![MasterHead](https://scontent.fmel3-1.fna.fbcdn.net/v/t39.30808-6/334330695_195406059765904_1348350856749163972_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=3f184priO34AX8NP_U5&_nc_ht=scontent.fmel3-1.fna&oh=00_AfC8npQ_SM1eyrr8Z7f4RdtNR-i21OP9g5SM8q-AylF2KA&oe=6430681C)
+
 <h1 align="center">Hi 👋, I'm Duc Minh Quang Nguyen</h1>
 <h3 align="center">A normal guy who is interested in AI, ML and Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif?cid=ecf05e47fs9gnrr0j3yytqxf94uhq55zgqf16tew3egg24n8&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Probability & Statistics, Cloud Computing, ML and DL**
 
